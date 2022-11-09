@@ -1,4 +1,4 @@
-public class pp5 
+public class Triangle3 
 {    
             public static void main(String[] args) {
                 int i,j,n=4;
