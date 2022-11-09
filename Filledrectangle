@@ -1,4 +1,4 @@
-public class pp1 {
+public class Filledrectangle {
     public static void main(String[] args) {
         int i,j,n=4;
         for(i=1; i<=n; i++)
